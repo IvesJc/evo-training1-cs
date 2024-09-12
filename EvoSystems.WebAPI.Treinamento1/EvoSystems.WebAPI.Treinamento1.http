@@ -1,0 +1,6 @@
+@EvoSystems.WebAPI.Treinamento1_HostAddress = http://localhost:5190
+
+GET {{EvoSystems.WebAPI.Treinamento1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
